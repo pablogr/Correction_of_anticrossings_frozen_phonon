@@ -1,0 +1,37 @@
+Number_of_atoms = 34
+Number_of_species = 2
+
+Read_from_xml_file = 1
+
+elec_eigval_file_name = out_scf.out
+Band_occupation = 2
+
+
+Modes_to_analyse######
+53
+54
+55
+56
+61
+62
+############################
+
+Displacement_parameters######
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+############################
+

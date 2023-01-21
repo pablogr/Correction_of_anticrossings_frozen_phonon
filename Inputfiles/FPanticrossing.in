@@ -1,0 +1,6 @@
+# Input file for the program for the calculation of the dressed eigenvalues without effects due to anticrossing
+
+quantity_to_correct = HOMO
+Nh = 33
+PolynomialDegreeg = 6
+Nintervals = 4097

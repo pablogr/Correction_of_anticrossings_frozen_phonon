@@ -1,0 +1,12 @@
+QEMassesFile = out_scf.out
+InputQEscffile = scf.in
+InputQEpotfile = Veff-unperturb.in 
+FreqsUfile = dynmat.out
+#FreqsUfile = dynG
+BasicDirPath = ./
+Finite_Difference_Parameter = 2.000000000
+
+%Atoms=
+C  12.0107      14
+H  1.007825035  20
+%

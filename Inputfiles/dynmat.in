@@ -1,0 +1,3 @@
+dynmat.x
+&input fildyn='dynG', asr='simple' /
+
